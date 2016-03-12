@@ -3276,6 +3276,14 @@
 			background-color: #953d75;
 		}
 
+		.wrapper.style4 {
+			background-color: #863E85;
+		}
+
+		.wrapper.style4-alt {
+			background-color: #953d75;
+		}
+
 		.wrapper.fullscreen {
 			display: -moz-flex;
 			display: -webkit-flex;
